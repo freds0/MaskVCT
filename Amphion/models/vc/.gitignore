@@ -1,0 +1,4 @@
+!vevo/config/*.npz
+
+!vevo/wav/*.wav
+vevo/wav/output*.wav
