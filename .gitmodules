@@ -1,0 +1,6 @@
+[submodule "submodules/descript-audio-codec"]
+	path = submodules/descript-audio-codec
+	url = https://github.com/descriptinc/descript-audio-codec
+[submodule "submodules/amphion"]
+	path = submodules/amphion
+	url = https://github.com/open-mmlab/amphion
